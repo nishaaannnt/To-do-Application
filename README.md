@@ -7,7 +7,7 @@ Using:
   TKINTER --> Python
 
 Sources Used:
-  1> A youtube tutorial about Tkinter
-  2> Online Articles for the theme purpose
-  3> Some more Youtube videos for functionality
+  1> A youtube tutorial about Tkinter <br>
+  2> Online Articles for the theme purpose<br>
+  3> Some more Youtube videos for functionality<br>
 
